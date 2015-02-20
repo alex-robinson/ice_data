@@ -59,7 +59,7 @@ emission, J. Geophys. Res., 111, D06107, doi:10.1029/2004JD005667, 2006.
 > The map is derived from a compilation of field measurements. Satellite observations from AMSR-E and AVHRR instruments are used to guide the
 > interpolation. The effective resolution of the map is approximately 100 km. The estimates of root mean square percentage error apply to regional
 > averages at scales of around 100 km by 100 km. On smaller scales, additional deviations of 30% r.m.s. are likely. Values for locations subject to melt
-> may be unreliable. Units are (kg/m²/a), or (mm/a) water equivalent."
+> may be unreliable. Units are (kg/m²/a), or (mm/a) water equivalent.
 
 __BMELT__
 
